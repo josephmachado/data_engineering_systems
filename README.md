@@ -19,6 +19,6 @@ The docker compose will also start a jupyter server that you can open by going t
 
 ## 1. Advanced data types and Schema evolution
 
-Blog for this section is available at [](https://www.startdataengineering.com/post/deliver-data-quickly-with-schema-evolution-and-adv-data-types/).
+Blog for this section is available at **[How to quickly deliver data to business users? #1. Adv Data types & Schema evolution](https://www.startdataengineering.com/post/deliver-data-quickly-with-schema-evolution-and-adv-data-types/)**.
 
 Open JupyterLab for this section by **[clicking on this link](http://localhost:8888/doc/tree/notebooks/automate_data_flow.ipynb)**.
