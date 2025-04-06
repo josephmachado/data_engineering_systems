@@ -19,7 +19,7 @@ The docker compose will also start a jupyter server that you can open by going t
 
 ## Creating SCD2 Table using MERGE INTO with Apache Spark and Apache Iceberg
 
-![MERGE INTO](./assets/images/merge_into.jpeg)
+![MERGE INTO](./assets/images/merge_into.jpg)
 
 ## Advanced data types and Schema evolution
 
