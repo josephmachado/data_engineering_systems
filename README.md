@@ -24,7 +24,7 @@ The docker compose will also start a jupyter server that you can open by going t
 
 Blog at: **[How to create an SCD2 table using MERGE INTO](https://www.startdataengineering.com/post/deliver-data-quickly-with-schema-evolution-and-adv-data-types/)**
 
-**[Notebook code](./notebooks/`Use MERGE INTO to create SCD2 dimension with Spark and Iceberg.ipynb`)**
+**[Notebook code](./notebooks/Use%20MERGE%20INTO%20to%20create%20SCD2%20dimension%20with%20Spark%20and%20Iceberg.ipynb)**
 
 ![MERGE INTO](./assets/images/merge_into.jpg)
 
