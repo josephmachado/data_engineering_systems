@@ -1,4 +1,7 @@
- How to quickly deliver data to business users
+Repository for the following blog posts
+
+1. **[Quickly deliver business value to end users](https://www.startdataengineering.com/post/deliver-data-quickly-with-schema-evolution-and-adv-data-types/)**
+2. **[How to create an SCD2 table using MERGE INTO](https://www.startdataengineering.com/post/deliver-data-quickly-with-schema-evolution-and-adv-data-types/)**
 
 ## Setup
 
@@ -19,6 +22,10 @@ The docker compose will also start a jupyter server that you can open by going t
 
 ## Creating SCD2 Table using MERGE INTO with Apache Spark and Apache Iceberg
 
+Blog at: **[How to create an SCD2 table using MERGE INTO](https://www.startdataengineering.com/post/deliver-data-quickly-with-schema-evolution-and-adv-data-types/)**
+
+**[Notebook code](./notebooks/Use MERGE INTO to create SCD2 dimension with Spark and Iceberg.ipynb)**
+
 ![MERGE INTO](./assets/images/merge_into.jpg)
 
 ## Advanced data types and Schema evolution
@@ -27,6 +34,7 @@ Blog for this section is available at **[How to quickly deliver data to business
 
 Open JupyterLab for this section by **[clicking on this link](http://localhost:8888/doc/tree/notebooks/automate_data_flow.ipynb) after starting the docker containers**.
 
+## Stop
 
 Finally stop the running docker containers with:
 ```bash

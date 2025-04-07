@@ -12,6 +12,7 @@ services:
       - minio
     volumes:
       - ./warehouse:/home/iceberg/warehouse
+      - ./assets:/home/iceberg/assets
       - ./notebooks:/home/iceberg/notebooks/notebooks
     environment:
       - AWS_ACCESS_KEY_ID=admin
