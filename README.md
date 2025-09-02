@@ -1,7 +1,7 @@
 Repository for the following blog posts
 
 1. **[Quickly deliver business value to end users](https://www.startdataengineering.com/post/deliver-data-quickly-with-schema-evolution-and-adv-data-types/)**
-2. **[How to create an SCD2 table using MERGE INTO](https://www.startdataengineering.com/post/deliver-data-quickly-with-schema-evolution-and-adv-data-types/)**
+2. **[How to create an SCD2 table using MERGE INTO](https://www.startdataengineering.com/post/create-scd2-table-with-merge-into-with-spark-iceberg/)**
 
 ## Setup
 
